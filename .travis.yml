@@ -1,4 +1,5 @@
 language: java
 jdk: openjdk8
 dist: xenial
-script: gradle build
+script:
+	-  gradle build
