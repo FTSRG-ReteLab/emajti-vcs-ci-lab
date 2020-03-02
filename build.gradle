@@ -4,4 +4,8 @@ subprojects {
   repositories {
     jcenter()
   }
+  dependencies {
+    api 'com.google.guava'
+  }
+
 }
