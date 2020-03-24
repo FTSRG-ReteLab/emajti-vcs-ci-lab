@@ -12,7 +12,7 @@ subprojects {
     // Pick one:
 
     // 1. Use Guava in your implementation only:
-    implementation("com.google.guava:guava:28.2-jre")
+    //implementation("com.google.guava:guava:28.2-jre")
 
     // 2. Use Guava types in your public API:
     //api("com.google.guava:guava:28.2-jre")
